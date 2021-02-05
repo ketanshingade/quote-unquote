@@ -50,6 +50,13 @@ export const quotes = [
         tag: ["philosophy"],
         id: 7,
     },
+    {
+        quote:
+            "Waste no more time arguing about what a good man should be. Be one.",
+        author: "Marcus Aurelius",
+        tag: ["philosophy"],
+        id: 7,
+    },
 ];
 
 
